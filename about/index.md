@@ -11,3 +11,6 @@ subclass: 'post page'
 
 
 An Experienced QA professional with a love for Quality, Products, and User Experience. Spent 5 years obsessing over requirements.
+
+
+Add Link to LinkedIn + Link to resume PDF + Email
