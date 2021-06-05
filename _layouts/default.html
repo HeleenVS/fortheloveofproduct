@@ -2,6 +2,10 @@
 <html>
 <head>
 
+    {% unless jekyll.environment == "production" %}
+    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+    {% endunless %}
+
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
