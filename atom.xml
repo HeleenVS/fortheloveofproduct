@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>A Quality Product Journey</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Avoiding the bottleneck; Early QA involvement and engagement</title>
+        
+          <description>&lt;p&gt;Heard in nearly every software project: &lt;em&gt;“QA is a bottleneck!”&lt;/em&gt; This bottleneck happens for a variety of reason and there is not a one fix-all solution.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 13 May 2021 10:18:00 +0000</pubDate>
+        <link>
+        /avoiding-the-qa-bottleneck</link>
+        <guid isPermaLink="true">/avoiding-the-qa-bottleneck</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

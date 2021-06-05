@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/fortheloveofproduct/feed.xml" rel="self" type="application/atom+xml" /><link href="/fortheloveofproduct/" rel="alternate" type="text/html" /><updated>2021-06-05T21:15:46+00:00</updated><id>/fortheloveofproduct/feed.xml</id><title type="html">ForTheLoveOfProduct</title><subtitle>A Quality Product Journey</subtitle><entry><title type="html">Avoiding the bottleneck; Early QA involvement and engagement</title><link href="/fortheloveofproduct/avoiding-the-qa-bottleneck" rel="alternate" type="text/html" title="Avoiding the bottleneck; Early QA involvement and engagement" /><published>2021-05-13T10:18:00+00:00</published><updated>2021-05-13T10:18:00+00:00</updated><id>/fortheloveofproduct/avoiding-the-qa-bottleneck</id><content type="html" xml:base="/fortheloveofproduct/avoiding-the-qa-bottleneck">&lt;p&gt;Heard in nearly every software project: &lt;em&gt;“QA is a bottleneck!”&lt;/em&gt; This bottleneck happens for a variety of reason and there is not a one fix-all solution.&lt;/p&gt;
+
+&lt;p&gt;However, there is one solution I advocate for on every project I am involved in. It made a considerable difference at my last project at Liberty Global. Let’s talk about involving QA early in the development lifecycle. My reasoning is three-fold:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Review&lt;/li&gt;
+  &lt;li&gt;Efficiency&lt;/li&gt;
+  &lt;li&gt;Engagement&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Let’s consider these three buzz words a bit more in-depth.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-review&quot;&gt;1. Review&lt;/h3&gt;
+
+&lt;p&gt;A developed feature has been delivered and assigned to QA. They spend a day to understand what the feature is and how it is supposed to work. There are many questions about jargon, complex run-on sentences, redundancies, etcetera.&lt;/p&gt;
+
+&lt;p&gt;Next step, QA reaches out to Business and Product to get answers. They are busy people, so it takes them a few days to get back.&lt;/p&gt;
+
+&lt;p&gt;Three days have passed, high-level test analysis has barely started. This is a frustrating process for everyone involved and it gets exponentially worse for complex features.&lt;/p&gt;
+
+&lt;p&gt;Involving QA early on can prevent many of these issues before development starts. It is the perfect time to review the requirements and ask questions about jargon and assumptions made by product experts.&lt;/p&gt;
+
+&lt;p&gt;In addition to that, QA has a different perspective on requirements than BAs or PO. They want to turn requirements into test cases and tend to advocate for testable requirements.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-efficiency&quot;&gt;2. Efficiency&lt;/h3&gt;
+&lt;p&gt;Simple: reading and discussing requirements for an upcoming feature gets QA familiar with problem areas and pitfalls. Meeting notes can be used to get back up to speed quickly when it is time test. By collaborating with Analysts and PO’s high level test cases can be created that the tester by themselves may not think of.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-engagement&quot;&gt;3. Engagement&lt;/h3&gt;
+&lt;p&gt;Being involved gets people engaged, especially if it is a collaborative effort. People who are invested in a product deliver better quality work and there is a greater sense of pride when a product is delivered successfully.&lt;/p&gt;
+
+&lt;p&gt;When QA is thrown a ‘finished’ product to test &lt;em&gt;(asap pls!)&lt;/em&gt; and this is the first time they have heard or seen the feature… It is a disembodied experience, and no one is really invested.&lt;/p&gt;
+
+&lt;p&gt;The caveat is, of course, this needs to be a collaborative experience! If QA is not participating actively, it is a wasted effort. If QA’s particular insight into requirements is not considered by the Analysts or PO’s, then it is also wasted effort.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please share your thoughts about this solution in the comments! Is QA involved from early on in your org? How is that working out for you?&lt;/em&gt;&lt;/p&gt;</content><author><name>Heleen VS</name></author><summary type="html">Heard in nearly every software project: “QA is a bottleneck!” This bottleneck happens for a variety of reason and there is not a one fix-all solution.</summary></entry></feed>
